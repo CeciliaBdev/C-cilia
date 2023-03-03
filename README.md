@@ -9,7 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Redux Toolkit](https://img.shields.io/badge/-Redux Toolkit-05122A?style=flat&logo=Redux Toolkit)&nbsp;
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=ReduxToolkit)&nbsp;
 
 
 ### 🛠 &nbsp;Outils
