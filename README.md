@@ -10,7 +10,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=Redux-Toolkit)&nbsp;
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=Redux)&nbsp;
 
 
 ### 🛠 &nbsp;Outils
