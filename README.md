@@ -1,6 +1,5 @@
 ## 👋 &nbsp;Hey !  Je suis Cécilia
 
---
 
 ### Je suis développeur Front end Junior mais pas que :
 
@@ -10,7 +9,7 @@
 - 🏋️‍♀️ &nbsp; J'aime le sport et l'architecture d'interieur 
 - 🌸 &nbsp; Toujours positive, rien n'arrive au hasard
 
---
+---
 
 
 ### 🛠 &nbsp;Development
