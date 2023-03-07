@@ -1,4 +1,17 @@
-## 👋 &nbsp;Hey !  I'm Cécilia
+## 👋 &nbsp;Hey !  Je suis Cécilia
+
+---
+
+### 🌱 &nbsp;Je suis développeur Front end Junior mais pas que :
+
+- 🌱 &nbsp; Passionnée par le développement 
+- 🌪️ &nbsp; Je suis maman de deux tornades
+- 🔫 &nbsp; Ancienne militaire, je suis méthodique et efficace
+- 🏋️‍♀️ &nbsp; J'aime le sport et l'architecture d'interieur 
+- 🌸 &nbsp; Toujours positive, rien n'arrive au hasard
+
+---
+
 
 ### 🛠 &nbsp;Development
 
