@@ -23,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=Redux)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
 
 
 ### 🛠 &nbsp;Outils
